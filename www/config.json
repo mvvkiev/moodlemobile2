@@ -4,7 +4,7 @@
     "versioncode" : "2017",
     "versionname" : "3.2.1",
     "cache_expiration_time" : 300000,
-    "default_lang" : "en",
+    "default_lang" : "uk",
     "languages": {"en": "English", "ru": "Русский", "uk": "Українська"},
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
