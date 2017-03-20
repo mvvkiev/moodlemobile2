@@ -1,0 +1,17 @@
+{
+    "allowguests": "Гость має доступ до курсу",
+    "availablecourses": "Доступні курси",
+    "categories": "Категорії курсів",
+    "courses": "Курси",
+    "enrolme": "Запис на курс",
+    "errorloadcourses": "При завантаженні курсів виникла помилка.",
+    "frontpage": "Головна сторінка",
+    "mycourses": "Мої курси",
+    "nocourses": "Інформація для показу відсутня.",
+    "nocoursesyet": "У цій категорії курси відсутні",
+    "nosearchresults": "Пошук не дав результатін",
+    "notenroled": "Ви не записані на цей курс",
+    "password": "Пароль",
+    "search": "Знайти",
+    "searchcourses": "Пошук курсу"
+}
